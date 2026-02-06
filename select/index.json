@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Rap God",
+  "base_artist": "Eminem",
+  "createdAt": "2026-02-06T17:26:57.175003Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Rap God",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/01_Rap_God_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Rap God",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/02_Rap_God_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Rap God (Mr. Cii Remix)",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/03_Rap_God_(Mr._Cii_Remix)_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Rap God",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/04_Rap_God_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Next Rap God",
+      "artist": "Dax",
+      "has_synced": true,
+      "path": "select/05_The_Next_Rap_God_Dax.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Next Rap God 2",
+      "artist": "Dax",
+      "has_synced": true,
+      "path": "select/06_The_Next_Rap_God_2_Dax.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "rap god",
+      "artist": "eminem",
+      "has_synced": true,
+      "path": "select/07_rap_god_eminem.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Rap God - Karaoke Version",
+      "artist": "Rap God",
+      "has_synced": false,
+      "path": "select/08_Rap_God_-_Karaoke_Version_Rap_God.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Rap God",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/09_Rap_God_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Rap God (Explicit)",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/10_Rap_God_(Explicit)_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Rap God (Instrumental)",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/11_Rap_God_(Instrumental)_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Rap God [Explicit]",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/12_Rap_God_[Explicit]_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "9 Rap God",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/13_9_Rap_God_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Rap God - Mr. Cii Remix",
+      "artist": "Eminem feat. Mr. Cii",
+      "has_synced": true,
+      "path": "select/14_Rap_God_-_Mr._Cii_Remix_Eminem_feat._Mr._Cii.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Rap God - Mr. Cii Remix",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/15_Rap_God_-_Mr._Cii_Remix_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Rap God",
+      "artist": "EminemMusic",
+      "has_synced": true,
+      "path": "select/16_Rap_God_EminemMusic.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Rap God",
+      "artist": "Rap God",
+      "has_synced": false,
+      "path": "select/17_Rap_God_Rap_God.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Rap God",
+      "artist": "Eminem",
+      "has_synced": false,
+      "path": "select/pl_01_Rap_God_Eminem.txt"
+    }
+  ]
+}
